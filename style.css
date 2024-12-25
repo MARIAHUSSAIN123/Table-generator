@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    color: rgb(10, 9, 11);
+    background-image: url(./istockphoto-185224486-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#input{
+    text-align: center;
+    color: rgb(136, 29, 229);
+}
+#btn{
+    background-color: brown;
+    color: rgb(190, 217, 18);
+    border-radius:50px ;
+    border: 2px solid rgb(34, 8, 65);
+
+}
+h1{
+    background-color: rgb(168, 13, 124);
+    max-width: 30%;
+    position: relative;
+    left: 400px;
+    
+    
+}
+h1:hover{
+    background-color: azure;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: darkorchid;
+    color: rgb(248, 239, 239);
+}
+#table{
+    text-align: center;
+    font-size: 30px;
+}
